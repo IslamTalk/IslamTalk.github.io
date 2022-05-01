@@ -22,6 +22,7 @@ authors:
     # web: https://www.wowthemes.net/donate/
     # twitter: https://twitter.com/wowthemesnet
     description: "Author"
+
   MegaMU:
     name: MegaMU
     display_name: MegaMU
@@ -29,6 +30,7 @@ authors:
     email: sirmegamu@outlook.com
     web: https://megamu.icu/
     description: "Site Builder"
+    
   wenqin:
     name: 问琴
     display_name: 问琴
