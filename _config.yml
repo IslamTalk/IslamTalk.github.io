@@ -18,7 +18,7 @@ authors:
     name: 佳
     display_name: 佳
     avatar: 'assets/images/avatar-jia.png'
-    # email: wowthemesnet@gmail.com
+    # email: 
     # web: https://www.wowthemes.net/donate/
     # twitter: https://twitter.com/wowthemesnet
     description: "Author"
@@ -37,8 +37,13 @@ authors:
     avatar: 'assets/images/avatar-wenqin.png'
     email: 1107874930@qq.com
     description: "Auther"
-
-
+  
+  yixiyan:
+    name: 一溪烟
+    display_name: 一溪烟
+    avatar: 'assets/images/avatar-yixiyan.png'
+    # email: 
+    description: "Auther"
 
 # Plugins
 plugins:
