@@ -14,9 +14,9 @@ email: sirmegamu@outlook.com
 
 # Authors
 authors:
-  Jia:
-    name: Jia
-    display_name: Jia
+  jia:
+    name: 佳
+    display_name: 佳
     avatar: 'assets/images/avatar.png'
     # email: wowthemesnet@gmail.com
     # web: https://www.wowthemes.net/donate/
@@ -30,6 +30,14 @@ authors:
     email: sirmegamu@outlook.com
     web: https://megamu.icu/
     description: "Site Builder"
+authors:
+  wenqin:
+    name: 问琴
+    display_name: 问琴
+    avatar: 'assets/images/avatar-wenqin.png'
+    email: 1107874930@qq.com
+    # web: https://megamu.icu/
+    description: "Auther"
 
 
 
