@@ -19,8 +19,6 @@ authors:
     display_name: 佳
     avatar: 'assets/images/avatar-jia.png'
     email: 1157209819@qq.com
-    # web: https://www.wowthemes.net/donate/
-    # twitter: https://twitter.com/wowthemesnet
     description: "靠近那束光"
 
   wenqin:
@@ -34,15 +32,23 @@ authors:
     name: 一溪烟
     display_name: 一溪烟
     avatar: 'assets/images/avatar-yixiyan.png'
-    # email: 
-    description: "Auther"
+    email: 179407960@qq.com
+    description: "一溪烟"
+  
+  haya:
+    name: 哈雅
+    display_name: 哈雅
+    avatar: 'assets/images/avatar-haya.png'
+    # email: 179407960@qq.com
+    description: "哈雅"
 
   MegaMU:
     name: 穆哥
     display_name: 穆哥
     avatar: 'assets/images/avatar-megamu.png'
     email: sirmegamu@outlook.com
-    # web: https://megamu.icu/
+    web: https://megamu.icu/
+    # twitter: https://twitter.com/wowthemesnet
     description: "落日黄沙，白帆秋水，你可知谁的记忆在时空里飞？"
     
 # Plugins
