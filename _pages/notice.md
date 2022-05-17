@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: page
 title: "网站相关以及投稿"
 author: MegaMU
-categories: [ Notice ]
-image: assets/images/6.jpg
+permalink: /notice
 beforetoc: "关于网站的使用及其说明"
 toc: true
 ---
