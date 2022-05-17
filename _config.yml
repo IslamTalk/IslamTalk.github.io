@@ -7,7 +7,6 @@ favicon: 'assets/images/logo.png'
 baseurl: /
 # google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'islamtalk'
-# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 email: sirmegamu@outlook.com
@@ -48,7 +47,7 @@ authors:
     avatar: 'assets/images/avatar-megamu.png'
     email: sirmegamu@outlook.com
     web: https://megamu.icu/
-    # twitter: https://twitter.com/wowthemesnet
+    # twitter: https://twitter.com/
     description: "落日黄沙，白帆秋水，你可知谁的记忆在时空里飞？"
     
 # Plugins
