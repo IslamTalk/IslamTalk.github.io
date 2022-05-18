@@ -58,3 +58,13 @@ toc: true
 
 不会发邮件的朋友也可以扫描下面的二维码加我微信，记得在发送好友邀请时注明投稿。
 ![wechat](https://islamtalk.github.io/assets/images/wechat.jpg)
+
+### 可能有用的信息
+
+- 0基础“翻墙”
+  
+  > [翻墙&Tor-为小白而写](https://megamu.icu/2022/04/VpnAndTor/)
+  
+- 国内使用Youtube
+  
+  > [Youtube镜像网站](https://megamu.icu/2022/03/y2bmirro/)
