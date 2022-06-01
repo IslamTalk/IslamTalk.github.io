@@ -68,3 +68,11 @@ toc: true
 - 国内使用Youtube
   
   > [Youtube镜像网站](https://megamu.icu/2022/03/y2bmirro/)
+  
+- Z-Library
+
+  > [Z-Library。世界上最大的数字图书馆。](https://zh.z-lib.org/)
+  >
+  > 注：Z-library已经被中国政府封杀，可以考翻墙访问或使用下面的网站用Tor访问
+  >
+  > [z-lib](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/)
