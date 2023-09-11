@@ -48,5 +48,5 @@ toc: true
 
 投稿可以发邮件，我的邮箱是<megawang@foxmail.com>。
 
-不会发邮件的朋友也可以扫描下面的二维码加我微信，记得在发送好友邀请时注明投稿。
+也可以扫描下面的二维码加我微信，记得在发送好友邀请时注明投稿。
 ![wechat](https://islamtalk.github.io/assets/images/wechat.jpg)
